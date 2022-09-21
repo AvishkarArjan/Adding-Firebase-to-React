@@ -1,3 +1,5 @@
+STEPS
+
 I
 
 1. create a project in firebase website
